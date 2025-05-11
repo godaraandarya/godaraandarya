@@ -1,8 +1,6 @@
-Here’s your fully integrated, professional **GitHub `README.md`** file combining everything you mentioned, including company branding, flagship products, APIs, team bios, and the privacy policy preview:
 
----
 
-````markdown
+````
 # 🚀 Godara & Arya Applications Pvt. Ltd.  
 ### *Pioneering IoT & Robotics for Next-Gen Automation*  
 **🌐 [www.gaapplications.com](https://www.gaapplications.com) | 📍 Hisar, India 
